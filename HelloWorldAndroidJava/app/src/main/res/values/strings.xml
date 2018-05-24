@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorldAndroidJava</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Logar</string>
+
+</resources>
